@@ -1,0 +1,21 @@
+# System and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
+
+# Dependencies and generated files
+node_modules/
+dist/
+coverage/
+.cache/
+*.log
+*.tmp
+
+# Local environment
+.env
+.env.*
+!.env.example
